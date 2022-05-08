@@ -90,15 +90,10 @@ if __name__ == '__main__':
         
         print(f'{testeke[i]}      |||continuing to next child...')
     
-    
     time.sleep(3)
-    
+
     cls()
     
     print('released memory sucessfully, press enter to quit...')
     
     dede = input()
-    
-    
-   
-   
